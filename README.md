@@ -21,6 +21,9 @@ git clone https://github.com/samhcorney/html-boilerplate.git
 ```
 npm install
 ```
+### Running
+
+From the command line navigate to the root folder of this project and type 'gulp'.
 
 ## Features
 
